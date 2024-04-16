@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="code 2.cpp">
+    <ClCompile Include="[2] 구조체 배열을 사용한 프로그램을 malloc과 realloc 사용하도록 변경하여 위와 동일하게 동작시켜서 stack full이 발생하지 않도록함.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
